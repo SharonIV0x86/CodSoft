@@ -9,4 +9,24 @@
 
 ### Usage:
 Juts git clone the repo and run
-  g++ main.cpp -o todo -lsqlite3
+ ``` 
+ g++ main.cpp -o todo -lsqlite3
+ ```
+
+
+# Task 2
+Number Guessing Game in C++The game is powered by Raylib and Raygui gaming libraries, where the players are challenged to guess a number withing limited number of attempts. 
+
+## Usage
+Git clone the repository and naviage to the foler <br>
+go to the build folder
+``` 
+ cd build
+```
+Just run 
+```
+  make
+```
+The makefile will be executed and Game.exe file will be generated, So simply run the exe file and enjoy the game!
+
+
