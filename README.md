@@ -29,4 +29,12 @@ Just run
 ```
 The makefile will be executed and Game.exe file will be generated, So simply run the exe file and enjoy the game!
 
+# Task 3
+A fully functional calculator using modern C++ techniques and templates. This calculator supports basic arithmetic operations (addition, subtraction, multiplication, division), as well as advanced features like exponentiation, square root calculation, and memory operations.
 
+
+## Usage
+```
+g++ calculator.cpp
+./a.exe
+```
